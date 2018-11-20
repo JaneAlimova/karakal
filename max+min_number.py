@@ -1,0 +1,11 @@
+a = int(input())
+b = int(input())
+c = int(input())
+d = min(a,b,c)
+print(d)
+
+a = int(input())
+b = int(input())
+c = int(input())
+d = max(a,b,c)
+print(d)
